@@ -68,6 +68,14 @@ for k in range(4,9):
 7\
 8
 
+Similarly If we iterate through 10 to 1 then we use range(start parameter,stop parameter,step parameter)
+
+## Example:
+```python
+for i in range(10, -1, -1):
+    print(i)
+```
+
 ## Quick Quiz
 Explore about third parameter of range (ie range(x, y, z))
 
