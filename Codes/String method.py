@@ -22,4 +22,27 @@ print(str.split())
 #Capitalize method
 print(name.capitalize())
 
-#Many more....
+#Many
+
+- upper()
+- lower()
+- strip()
+- rstrip()
+- replace()
+- split()
+- capitalize()
+- center()
+- count()
+- endswith()
+- find()
+- index()
+- isalnum()
+- isalpha()
+- islower()
+- isprintable()
+- isspace()
+- istitle()
+- isupper()
+- startswith()
+- swapcase()
+- title()
